@@ -1,0 +1,12 @@
+{
+  "name": "Kadena-db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TheBous/Kadena-db.git",
+  "author": "<luca.valsecchi@hotelscan.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1014.0",
+    "dotenv": "^10.0.0"
+  }
+}
